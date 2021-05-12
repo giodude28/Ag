@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:enabled="true"
+        android:title="家"
+        android:icon="@drawable/home"
+        />
+    <item
+        android:id="@+id/team"
+        android:enabled="true"
+        android:title="团队"
+        android:icon="@drawable/team"
+        />
+    <item
+        android:id="@+id/match"
+        android:enabled="true"
+        android:title="火柴"
+        android:icon="@drawable/matchs"
+        />
+    <item
+        android:id="@+id/football"
+        android:enabled="true"
+        android:title="关于足球"
+        android:icon="@drawable/ic_baseline_sports_soccer_24"
+        />
+</menu>
